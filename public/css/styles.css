@@ -18,7 +18,9 @@ body{
     width: 100%;
     background-color: var(--gris-claro);
 }
-
+.banner-home {
+    width: 100%;
+}
 header{
     background-color: var(--amarillo);
     padding: 20px;
